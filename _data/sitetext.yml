@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to Tolhuin Farmland!
-    text: It's Nice To Meet You
+    title: Tolhuin Farmland
+    text: Smart Farmland Investments
     button: Tell Me More
     buttonlink: "#services"
 
@@ -92,13 +92,13 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "THE CORE TOLHUIN TEAM"
+    text: "We do this together"
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Juan Ignacio Vázquez Broquá"
+        role: "Co-Founder & Director"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -107,8 +107,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Rodriogo Antelo Perez"
+        role: "Co-Founder & Director"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -117,8 +117,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Karen Roberts"
+        role: "Co-Founder & Director"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
