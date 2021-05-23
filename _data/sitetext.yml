@@ -11,13 +11,13 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Tolhuin Farmland
-    text: Smart Farmland Investments
-    button: Tell Me More
-    buttonlink: "#services"
+    # title: Tolhuin Farmland
+    text: Tolhuin Farmland
+    # button: Tell Me More
+    # buttonlink: "#services"
 
-  services:
-    title: "Services"
+  ABOUT:
+    title: "ABOUT"
     text: "Lorem ipsum"
     section: services
     list:
@@ -31,14 +31,14 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-  portfolio:
-    title: "Portfolio"
+  PORTFOLIO:
+    title: "PORTFOLIO"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
 
-  timeline:
-    title: "About"
+  PROCESS:
+    title: "PROCESS"
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
@@ -68,8 +68,8 @@ en: &DEFAULT_EN
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-  about:
-    title: "About Us"
+  TEAM:
+    title: "TEAM"
     text: "our story"
     section: about
 
