@@ -11,13 +11,13 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    # title: Tolhuin Farmland
-    text: Tolhuin Farmland
-    # button: Tell Me More
-    # buttonlink: "#services"
+    title: Welcome to our Studio!
+    text: It's Nice To Meet You
+    button: Tell Me More
+    buttonlink: "#services"
 
-  ABOUT:
-    title: "ABOUT"
+  services:
+    title: "Services"
     text: "Lorem ipsum"
     section: services
     list:
@@ -31,14 +31,14 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-  PORTFOLIO:
-    title: "PORTFOLIO"
+  portfolio:
+    title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
 
-  PROCESS:
-    title: "PROCESS"
+  timeline:
+    title: "About"
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
@@ -68,8 +68,8 @@ en: &DEFAULT_EN
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-  TEAM:
-    title: "TEAM"
+  about:
+    title: "About Us"
     text: "our story"
     section: about
 
@@ -92,13 +92,13 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "THE CORE TOLHUIN TEAM"
-    text: "We do this together"
+    title: "OUR AMAZING TEAM"
+    text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Juan Ignacio Vázquez Broquá"
-        role: "Co-Founder & Director"
+      - name: "Kay Garland"
+        role: "Lead Designer"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -107,8 +107,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Rodriogo Antelo Perez"
-        role: "Co-Founder & Director"
+      - name: "Larry Parker"
+        role: "Lead Marketer"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -117,8 +117,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Karen Roberts"
-        role: "Co-Founder & Director"
+      - name: "Diana Perterson"
+        role: "Lead Developer"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com

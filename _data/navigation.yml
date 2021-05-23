@@ -11,18 +11,18 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "ABOUT"
-      section: ABOUT
-    - title: "PORTFOLIO"
-      section: PORTFOLIO
-    - title: "PROCESS"
-      section: PROCESS
+    - title: "Services"
+      section: services
+    - title: "Portfolio"
+      section: portfolio
+    - title: "About"
+      section: timeline
     - title: "Team"
       section: team
     - title: "Contact"
       section: contact
-    - title: "Verde al Cubo"
-      url: https://www.verdealcubo.com/general/bienvenido
+    - title: "Theme Source"
+      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -46,8 +46,8 @@ es: &DEFAULT_ES
       section: equipo
     - title: "Contáctenos"
       section: contacto
-    - title: "Verde al Cubo"
-      url: https://www.verdealcubo.com/general/bienvenido
+    - title: "Fuente de la plantilla"
+      url: https://github.com/raviriley/agency-jekyll-theme/
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
