@@ -11,12 +11,12 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
-      section: services
-    - title: "Portfolio"
-      section: portfolio
-    - title: "About"
-      section: timeline
+    - title: "ABOUT"
+      section: ABOUT
+    - title: "PORTFOLIO"
+      section: PORTFOLIO
+    - title: "PROCESS"
+      section: PROCESS
     - title: "Team"
       section: team
     - title: "Contact"
