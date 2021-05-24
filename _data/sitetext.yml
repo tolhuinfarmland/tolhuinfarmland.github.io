@@ -18,8 +18,7 @@ en: &DEFAULT_EN
 
   whatwedo:
     title: "What we do"
-    text: "The world that’s coming will need more food and trees1.
-We’re working on it. We develop sustainable farmland investment opportunities worldwide that provide high yield assets for our investors by delivering export class food products and trading our carbon capture and sequestration credits."
+    text: "The world that’s coming will need more food and trees. We’re working on it. We develop sustainable farmland investment opportunities worldwide that provide high yield assets for our investors by delivering export class food products and trading our carbon capture and sequestration credits."
     section: whatwedo
     list:
       - title: "Smart Partners"
