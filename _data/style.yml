@@ -5,4 +5,5 @@ black: "#666666" #"#000000ff" #"#000"
 
 #Image Customization
 header-image: "../img/header-bg.jpg"
+header-image-scrolling: "fixed"
 contact-image: "../img/map-image.png"
