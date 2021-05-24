@@ -178,10 +178,10 @@ es: &DEFAULT_ES
     button: Ver más
     buttonlink: "#servicios"
 
-  services:
-    title: "Servicios"
+  whatwedo:
+    title: "What we do"
     text: "Lorem ipsum"
-    section: servicios
+    section: whatwedo
     list:
       - title: "Comercio Electrónico"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
