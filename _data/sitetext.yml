@@ -22,16 +22,20 @@ en: &DEFAULT_EN
 We’re working on it. We develop sustainable farmland investment opportunities worldwide that provide high yield assets for our investors by delivering export class food products and trading our carbon capture and sequestration credits."
     section: whatwedo
     list:
-      - title: "E-Commerce"
-        desc: "The world that’s coming will need more food and trees1.
-We’re working on it. We develop sustainable farmland investment opportunities worldwide that provide high yield assets for our investors by delivering export class food products and trading our carbon capture and sequestration credits."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Smart Partners"
+        desc: "Our preferred client agreement with 17-Minerals provides our farms with disruptive fertilizing technology at break-even cost, and access to further technologies developed under technological convergence programs (Farmers3).
+As members of V3 family we get world class agro and lab support [(V3 Lab)](https://www.verdealcubo.com/investigacion-y-desarrollo/laboratorio-v3/innovacion)"
+        icon: fas fa-handshake #find more at https://fontawesome.com/icons
+      - title: "Smart Farmland Selection"
+        desc: "We combine advanced satellite imagery analysis with exclusive leads to find real estate opportunities worldwide."
+        icon: fas fa-globe-americas
+      - title: "Smart Farming"
+        desc: "We choose seasoned operators with proven experience and provide support to benefit from agtech solutions  and knowledge transfer (Academia Verde3) from experts."
+        icon: fab fa-flask
+      - title: "Smart Money"
+        desc: "We provide simple, transparent and flexible investment opportunities according to our clients priorities."
+        icon: fab hand-holding-usd
+
 
   portfolio:
     title: "Portfolio"
@@ -80,18 +84,18 @@ We’re working on it. We develop sustainable farmland investment opportunities 
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
+      - title: "Verde al Cubo"
+        url: https://www.verdealcubo.com/general/bienvenido
         logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
+      - title: "17 Minerals"
+        # url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
+      - title: "Academia Verde al Cubo"
+        url: https://academiaverdealcubo.com/
         logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      - # title: "Creative Market"
+        # url: https://github.com/raviriley/agency-jekyll-theme
+        # logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "OUR AMAZING TEAM"
