@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "Smart Partners"
         desc: "Our preferred client agreement with 17-Minerals provides our farms with disruptive fertilizing technology at break-even cost."
-        icon: fas fa-flask #find more at https://fontawesome.com/icons
+        icon: assets\img\Tolhuin\smart_partners.png # fas fa-flask #find more at https://fontawesome.com/icons
       - title: "Smarter Farmers"
         desc: "We choose seasoned operators with proven experience and provide support that benefits from agtech solutions and experts knowledge transfer."
-        icon: fas fa-handshake #fas fa-globe-americas
+        icon: assets\img\Tolhuin\smarter_farmers.png #fas fa-handshake #fas fa-globe-americas
       - title: "Smart Money"
         desc: "We provide simple, transparent and flexible investment opportunities in asset backed high profit businesses."
-        icon: fas fa-hand-holding-usd
+        icon: assets\img\Tolhuin\smart_money.png #fas fa-hand-holding-usd
 
 
   portfolio:
