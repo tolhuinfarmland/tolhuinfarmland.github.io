@@ -30,9 +30,9 @@ en: &DEFAULT_EN
       - title: "Smart Farming"
         desc: "We choose seasoned operators with proven experience and provide support to benefit from agtech solutions  and knowledge transfer (Academia Verde3) from experts."
         icon: fas fa-flask
-      #- title: "Smart Money"
-      #  desc: "We provide simple, transparent and flexible investment opportunities according to our clients priorities."
-      #  icon: fab hand-holding-usd
+      - title: "Smart Money"
+        desc: "We provide simple, transparent and flexible investment opportunities according to our clients priorities."
+        icon: fas hand-holding-usd
 
 
   portfolio:
