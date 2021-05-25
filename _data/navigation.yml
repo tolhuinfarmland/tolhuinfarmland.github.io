@@ -21,9 +21,9 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
-    - whoweare: "Who We Are"
+    - title: "Who We Are"
+      url: https://tolhuinfarmland.com/whoweare
+      
 en-US:
   <<: *DEFAULT_EN
 en-CA:
