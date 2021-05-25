@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: #Welcome to our Studio!
-    text: Farmland Investment Opportunities
+    title: Smart Farmland Investments
+    text: Tolhuin Farmland
     button: Tell Me More
     buttonlink: "#contact"
 
