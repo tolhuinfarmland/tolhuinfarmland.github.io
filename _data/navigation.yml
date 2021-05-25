@@ -23,6 +23,7 @@ en: &DEFAULT_EN
       section: contact
     - title: "Theme Source"
       url: https://github.com/raviriley/agency-jekyll-theme/
+    - whoweare: "Who We Are"
 en-US:
   <<: *DEFAULT_EN
 en-CA:

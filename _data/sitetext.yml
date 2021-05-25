@@ -18,16 +18,16 @@ en: &DEFAULT_EN
 
   services:
     title: "What we do"
-    text: "The world that’s coming will need more food and trees. We’re working on it. We develop sustainable farmland investment opportunities worldwide that provide high yield assets for our investors by delivering export class food products and trading our carbon capture and sequestration credits."
+    text:
     section: services
     list:
       - title: "Smart Partners"
         desc: "Our preferred client agreement with 17-Minerals provides our farms with disruptive fertilizing technology at break-even cost, and access to further technologies developed under technological convergence programs (Farmers3). As members of V3 family we get world class agro and lab support (V3 Lab)."
         icon: fas fa-flask #find more at https://fontawesome.com/icons
-      - title: "Smart Farmers"
+      - title: "Smarter Farmers"
         desc: "We choose seasoned operators with proven experience and provide support to benefit from agtech solutions  and knowledge transfer (Academia Verde3) from experts."
         icon: fas fa-handshake #fas fa-globe-americas
-      - title: "Smart Money"
+      - title: "Smartest Money"
         desc: "We provide simple, transparent and flexible investment opportunities according to our clients priorities."
         icon: fas fa-hand-holding-usd
 
