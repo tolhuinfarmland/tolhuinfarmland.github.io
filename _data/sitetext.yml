@@ -16,10 +16,10 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#contact"
 
-  whatwedo:
+  services:
     title: "What we do"
     text: "The world that’s coming will need more food and trees. We’re working on it. We develop sustainable farmland investment opportunities worldwide that provide high yield assets for our investors by delivering export class food products and trading our carbon capture and sequestration credits."
-    section: whatwedo
+    section: services
     list:
       - title: "Smart Partners"
         desc: "Our preferred client agreement with 17-Minerals provides our farms with disruptive fertilizing technology at break-even cost, and access to further technologies developed under technological convergence programs (Farmers3). As members of V3 family we get world class agro and lab support (V3 Lab)."
