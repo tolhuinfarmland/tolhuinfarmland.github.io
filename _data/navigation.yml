@@ -15,15 +15,15 @@ en: &DEFAULT_EN
       section: services
     - title: "Portfolio"
       section: portfolio
-    - title: "About"
-      section: timeline
-    - title: "Team"
-      section: team
+#     - title: "About"
+#       section: timeline
+#     - title: "Team"
+#       section: team
     - title: "Contact"
       section: contact
     - title: "Who We Are"
       url: https://tolhuinfarmland.com/whoweare
-      
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
