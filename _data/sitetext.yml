@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "What we do"
-    text:
+    text: "    "
     section: services
     list:
       - title: "Smart Partners"
@@ -27,7 +27,7 @@ en: &DEFAULT_EN
       - title: "Smarter Farmers"
         desc: "We choose seasoned operators with proven experience and provide support that benefits from agtech solutions and experts knowledge transfer."
         icon: fas fa-handshake #fas fa-globe-americas
-      - title: "Smartest Money"
+      - title: "Smart Money"
         desc: "We provide simple, transparent and flexible investment opportunities in asset backed high profit businesses."
         icon: fas fa-hand-holding-usd
 
@@ -81,13 +81,13 @@ en: &DEFAULT_EN
     list:
       - title: "Verde al Cubo"
         url: https://www.verdealcubo.com/general/bienvenido
-        logo: assets/img/clients/envato.jpg
+        logo: assets/img/clients/V3.png
       - title: "17 Minerals"
-        # url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
+        url: https://www.verdealcubo.com/general/bienvenido
+        logo: assets\img\clients\17M.jpg
       - title: "Academia Verde al Cubo"
         url: https://academiaverdealcubo.com/
-        logo: assets/img/clients/themeforest.jpg
+        logo: assets/img/clients/AV3.png
       - # title: "Creative Market"
         # url: https://github.com/raviriley/agency-jekyll-theme
         # logo: assets/img/clients/creative-market.jpg
@@ -167,7 +167,7 @@ en-AU:
   <<: *DEFAULT_EN
 
 # Spanish
-# -------
+# -----------------------------------------------------------------------------------------------------------------------
 es: &DEFAULT_ES
   header:
     title: ¡Bienvenido a nuestro Estudio!
