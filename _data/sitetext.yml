@@ -51,17 +51,17 @@ en: &DEFAULT_EN
         alt:
       - title: "Opportunity is Taken"
         year: "2"
-        desc: "Subscribers take shares in new farm business."
+        desc: "You take shares in a new farm business."
         image: assets\img\Tolhuin\opportunity_is_taken.png
         alt:
       - title: "Business Development"
         year: "3"
-        desc: "Tolhuin runs the business."
+        desc: "Tolhuin runs the business for you."
         image: assets\img\Tolhuin\smart_farmers.png
         alt: image alt text
       - title: "Passive Income"
         year: "4"
-        desc: "Share-holders recieve annual dividends out of their high yield low-risk asset-backed farmlands."
+        desc: "You get annual dividends out of your high yield, low-risk, unleveraged and asset-backed farmlands."
         image: assets\img\Tolhuin\smart_money.png
         alt:
         # you can enforce the alignment
