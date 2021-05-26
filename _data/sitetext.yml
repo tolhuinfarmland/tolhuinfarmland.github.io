@@ -57,11 +57,11 @@ en: &DEFAULT_EN
       - title: "Business Development"
         year: "3"
         desc: "Tolhuin runs the business."
-        image: assets/img/timeline/smart_farmers.png
+        image: assets\img\Tolhuin\smart_farmers.png
         alt: image alt text
       - title: "Passive Income"
         year: "4"
-        desc: "Share-holders recieve annual dividends for holding shares in high yield low-risk asset-backed farmlands."
+        desc: "Share-holders recieve annual dividends out of their high yield low-risk asset-backed farmlands."
         image: assets\img\Tolhuin\smart_money.png
         alt:
         # you can enforce the alignment
