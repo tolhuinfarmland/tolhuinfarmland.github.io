@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    #- title: "How it works"
-    #  section: timeline
+    - title: "How it works"
+      section: timeline
     - title: "Why Us"
       section: services
     - title: "Portfolio"
@@ -21,8 +21,8 @@ en: &DEFAULT_EN
 #       section: team
     - title: "Contact Us"
       section: contact
-    - title: "Who We Are"
-      url: https://tolhuinfarmland.com/whoweare
+#    - title: "Who We Are"
+#      url: https://tolhuinfarmland.com/whoweare
 
 en-US:
   <<: *DEFAULT_EN
