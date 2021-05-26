@@ -67,7 +67,7 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
-
+    buttonlink: "#contact"
   about:
     title: "About Us"
     text: "our story"
