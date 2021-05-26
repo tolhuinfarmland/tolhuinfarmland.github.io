@@ -65,8 +65,8 @@ en: &DEFAULT_EN
         image: assets\img\Tolhuin\smart_money.png
         alt:
         # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+        # align: right
+        # end: "Get Growing"
     buttonlink: "#contact"
   about:
     title: "About Us"
