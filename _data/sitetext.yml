@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon:  fas fa-handshake #fas fa-globe-americas #assets\img\Tolhuin\smarter_farmers.ico
       - title: "Smart Money"
         desc: "We provide simple, transparent and flexible investment opportunities in asset backed high profit businesses."
-        icon: fas fa-hand-holding-usd #assets\img\Tolhuin\smart_money.svg 
+        icon: fas fa-hand-holding-usd #assets\img\Tolhuin\smart_money.svg
 
 
   portfolio:
@@ -96,8 +96,8 @@ en: &DEFAULT_EN
 #             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Get Growing"
+    text: "Leave us your contact and one of our team members will get in touch within 48 hs."
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
