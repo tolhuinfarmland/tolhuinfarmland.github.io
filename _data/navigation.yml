@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-     - title: "How it works"
-       section: timeline
+    #- title: "How it works"
+    #  section: timeline
     - title: "Why Us"
       section: services
     - title: "Portfolio"
