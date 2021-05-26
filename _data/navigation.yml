@@ -11,12 +11,12 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "What we do"
+     - title: "How it works"
+       section: timeline
+    - title: "Why Us"
       section: services
     - title: "Portfolio"
       section: portfolio
-#     - title: "About"
-#       section: timeline
 #     - title: "Team"
 #       section: team
     - title: "Contact Us"

@@ -11,18 +11,54 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Smart Farmland Investments
+    title: # Smart Farmland Investments
     text: Tolhuin Farmland
     button: Tell Me More
     buttonlink: "#contact"
+   timeline:
+     title: "HOW IT WORKS"
+     text: "Lorem ipsum timeline"
+     section: timeline
+     # left is the default
+     #start_align: "left"
+     events:
+       - title: "Our Humble Beginnings"
+         year: "2009-2011"
+         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+         image: assets/img/timeline/1.jpg
+         alt:
+       - title: "An Agency is Born"
+         year: "March 2011"
+         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+         image: assets/img/timeline/2.jpg
+         alt:
+       - title: "Jekyll Theme is created"
+         year: "2019"
+         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+         image: assets/img/timeline/3.jpg
+         alt: image alt text
+       - title: "Title"
+         year: "2009-2011"
+         desc: "Your description here, **Markdown** is fully supported."
+         image: assets/img/timeline/4.jpg
+         alt:
+         # you can enforce the alignment
+         align: right
+     end: "Be Part <br> of Our <br> Story!"
+#
+   about:
+#     title: "About Us"
+#     text: "our story"
+#     section: about
+
 
   services:
-    title: "What we do"
+    title: "Why Us"
     text: "    "
     section: services
     list:
       - title: "Smart Partners"
-        desc: "Our preferred client agreement with 17-Minerals provides our farms with disruptive fertilizing technology at break-even cost."
+        desc: "Our preferred client agreement with 17-Minerals provides our farms with unlimited disruptive fertilizing technology at break-even cost."
         icon: assets\img\Tolhuin\smart_partners.png # fas fa-flask #find more at https://fontawesome.com/icons
       - title: "Smarter Farmers"
         desc: "We choose seasoned operators with proven experience and provide support that benefits from agtech solutions and experts knowledge transfer."
@@ -34,45 +70,11 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    # text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
-    closebutton: "Close Project"
+    # closebutton: "Close Project"
 
-#   timeline:
-#     title: "About"
-#     text: "Lorem ipsum timeline"
-#     section: timeline
-#     # left is the default
-#     #start_align: "left"
-#     events:
-#       - title: "Our Humble Beginnings"
-#         year: "2009-2011"
-#         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-#         image: assets/img/timeline/1.jpg
-#         alt:
-#       - title: "An Agency is Born"
-#         year: "March 2011"
-#         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-#         image: assets/img/timeline/2.jpg
-#         alt:
-#       - title: "Jekyll Theme is created"
-#         year: "2019"
-#         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-#         image: assets/img/timeline/3.jpg
-#         alt: image alt text
-#       - title: "Title"
-#         year: "2009-2011"
-#         desc: "Your description here, **Markdown** is fully supported."
-#         image: assets/img/timeline/4.jpg
-#         alt:
-#         # you can enforce the alignment
-#         align: right
-#     end: "Be Part <br> of Our <br> Story!"
-#
-#   about:
-#     title: "About Us"
-#     text: "our story"
-#     section: about
+
 
   clients:
     section: clients
@@ -88,9 +90,9 @@ en: &DEFAULT_EN
       - title: "Academia Verde al Cubo"
         url: https://academiaverdealcubo.com/
         logo: assets/img/clients/AV3.png
-      - # title: "Creative Market"
-        # url: https://github.com/raviriley/agency-jekyll-theme
-        # logo: assets/img/clients/creative-market.jpg
+      - title: "Creative Market"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/creative-market.jpg
 
 #   team:
 #     title: "OUR AMAZING TEAM"
