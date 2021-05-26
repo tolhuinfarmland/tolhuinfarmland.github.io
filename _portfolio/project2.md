@@ -1,5 +1,5 @@
 ---
-title: Picún Leufú Chandler Orchard
+title: Picún Leufú Chandler
 subtitle: Picún Leufú, Neuquén, AR
 image: assets\img\portfolio\Nogal_1_Blurred.png
 alt: Coming Soon...

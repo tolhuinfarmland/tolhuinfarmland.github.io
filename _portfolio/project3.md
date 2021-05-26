@@ -1,5 +1,5 @@
 ---
-title: Lower Valley Chandler Orchard
+title: Lower Valley Chandler
 subtitle: Lower Valley, Rio Negro, AR
 image: assets\img\portfolio\Nogal_2_Blurred.png
 alt: Coming Soon...

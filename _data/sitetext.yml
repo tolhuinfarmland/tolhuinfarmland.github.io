@@ -44,25 +44,25 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Farm Selection & Entity Creation"
-        # year: "2009-2011"
-        desc: "We select less than 1% of the parcels we review, ensuring each offering is of the highest quality. Each farm and its legal title are placed into a unique entity (usually an LLC)."
-        image: assets/img/timeline/1.jpg
+      - title: "New Offerings are Listed"
+        year: "1"
+        desc: "A new Offering is shared with our registered subscribers."
+        image: assets\img\Tolhuin\new_offering.png
         alt:
-      - title: "Investment"
-        # year: "March 2011"
-        desc: "You purchase shares in the entity that owns a farm. This can be done in just minutes online."
-        image: assets/img/timeline/2.jpg
+      - title: "Opportunity is Taken"
+        year: "2"
+        desc: "Subscribers take shares in new farm business."
+        image: assets\img\Tolhuin\opportunity_is_taken.png
         alt:
-      - title: "Farm Management"
-        # year: "2019"
-        desc: "AcreTrader Management handles all aspects of administration and property management, from insurance and accounting to working with local farmers and improving soil sustainability."
-        image: assets/img/timeline/3.jpg
+      - title: "Business Development"
+        year: "3"
+        desc: "Tolhuin runs the business."
+        image: assets/img/timeline/smart_farmers.svg
         alt: image alt text
-      - title: "Distributions"
-        # year: "2009-2011"
-        desc: "AcreTrader disburses excess annual income to investors. We would generally expect an unlevered yield of 3% - 5% for lower-risk properties. Note that this cash yield is in addition to expected annual value appreciation."
-        image: assets/img/timeline/4.jpg
+      - title: "Passive Income"
+         year: "2009-2011"
+        desc: "Share-holders recieve annual dividends for holding shares in high yield low-risk asset-backed farmlands."
+        image: assets\img\Tolhuin\smart_money.png
         alt:
         # you can enforce the alignment
         align: right
@@ -87,9 +87,9 @@ en: &DEFAULT_EN
       - title: "Academia Verde al Cubo"
         url: https://academiaverdealcubo.com/
         logo: assets/img/clients/AV3.png
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      #- title: "Creative Market"
+      #  url: https://github.com/raviriley/agency-jekyll-theme
+      #  logo: assets/img/clients/creative-market.jpg
 
 #   team:
 #     title: "OUR AMAZING TEAM"

@@ -1,5 +1,5 @@
 ---
-title: 25 de Mayo Pistachio Orchard
+title: 25 de Mayo Pistachio
 subtitle: 25 de Mayo, San Juan, AR
 image: assets\img\portfolio\Pistachio_Blurred.png
 alt: Coming Soon...
@@ -9,7 +9,7 @@ caption:
   subtitle: Coming Soon...
   thumbnail: assets\img\portfolio\Pistachio_Blurred.png
 ---
-#Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+ Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 {:.list-inline}
 - Target IRR: 17%
