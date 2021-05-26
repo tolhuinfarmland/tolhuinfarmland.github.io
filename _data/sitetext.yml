@@ -60,7 +60,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/smart_farmers.svg
         alt: image alt text
       - title: "Passive Income"
-         year: "2009-2011"
+        year: "2009-2011"
         desc: "Share-holders recieve annual dividends for holding shares in high yield low-risk asset-backed farmlands."
         image: assets\img\Tolhuin\smart_money.png
         alt:
