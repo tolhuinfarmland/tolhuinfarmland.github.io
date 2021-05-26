@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     button: Get Growing
     buttonlink: "#contact"
 
-  services:
+  timeline:
     title: "How it Works"
     text: "    "
     section: timeline
