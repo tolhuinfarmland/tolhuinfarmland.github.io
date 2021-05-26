@@ -38,30 +38,30 @@ en: &DEFAULT_EN
         icon: fas fa-hand-holding-usd #assets\img\Tolhuin\smart_money.svg
 
   timeline:
-    title: "About"
-    text: "Lorem ipsum timeline"
+    title: "How it Works"
+    text:  #"Lorem ipsum timeline"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Farm Selection & Entity Creation"
+        # year: "2009-2011"
+        desc: "We select less than 1% of the parcels we review, ensuring each offering is of the highest quality. Each farm and its legal title are placed into a unique entity (usually an LLC)."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Investment"
+        # year: "March 2011"
+        desc: "You purchase shares in the entity that owns a farm. This can be done in just minutes online."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Farm Management"
+        # year: "2019"
+        desc: "AcreTrader Management handles all aspects of administration and property management, from insurance and accounting to working with local farmers and improving soil sustainability."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Distributions"
+        # year: "2009-2011"
+        desc: "AcreTrader disburses excess annual income to investors. We would generally expect an unlevered yield of 3% - 5% for lower-risk properties. Note that this cash yield is in addition to expected annual value appreciation."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
