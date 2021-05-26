@@ -17,9 +17,9 @@ en: &DEFAULT_EN
     buttonlink: "#contact"
 
   services:
-    title: "Why Us"
+    title: "How it Works"
     text: "    "
-    section: services
+    section: timeline
     list:
       - title: "Smart Partners"
         desc: "Our preferred client agreement with 17-Minerals provides our farms with unlimited disruptive fertilizing technology at break-even cost."
@@ -33,12 +33,25 @@ en: &DEFAULT_EN
 
 
   portfolio:
-    title: "Portfolio"
+    title: "CURRENT OFFERINGS"
     # text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     # closebutton: "Close Project"
 
-
+  services:
+    title: "Why Us"
+    text: "    "
+    section: services
+    list:
+      - title: "Smart Partners"
+        desc: "Our preferred client agreement with 17-Minerals provides our farms with unlimited disruptive fertilizing technology at break-even cost."
+        icon: fas fa-flask #find more at https://fontawesome.com/icons #assets\img\Tolhuin\smart_partners.svg
+      - title: "Smarter Farmers"
+        desc: "We choose seasoned operators with proven experience and provide support that benefits from agtech solutions and experts knowledge transfer."
+        icon:  fas fa-handshake #fas fa-globe-americas #assets\img\Tolhuin\smarter_farmers.ico
+      - title: "Smart Money"
+        desc: "We provide simple, transparent and flexible investment opportunities in asset backed high profit businesses."
+        icon: fas fa-hand-holding-usd #assets\img\Tolhuin\smart_money.svg
 
   clients:
     section: clients
@@ -97,7 +110,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Get Growing"
-    text: "Leave us your contact and one of our team members will get in touch within 48 hs."
+    text: "Leave us your contact and one of our team members will get in touch asap."
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -108,7 +121,7 @@ en: &DEFAULT_EN
     message: "Message*"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
-    submit: "Send Message"
+    submit: "Get Started"
 
   footer:
     legal: "Privacy Policy"
