@@ -44,24 +44,24 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "New Offerings are Listed"
-        year: "1"
-        desc: "A new Offering is shared with our registered subscribers."
+      - title: "An Offerings is Listed"
+        year: "1."
+        desc: "A new Farmland is shared with our registered subscribers."
         image: assets\img\Tolhuin\new_offering.png
         alt:
-      - title: "Opportunity is Taken"
-        year: "2"
-        desc: "You take shares in a new farm business."
+      - title: "An Opportunity is Taken"
+        year: "2."
+        desc: "You choose and purchase shares in a Farm of your liking."
         image: assets\img\Tolhuin\opportunity_is_taken.png
         alt:
-      - title: "Business Development"
-        year: "3"
-        desc: "Tolhuin runs the business for you."
+      - title: "Business as Usual"
+        year: "3."
+        desc: "Tolhuin Farmland runs the business for you."
         image: assets\img\Tolhuin\smart_farmers.png
         alt: image alt text
       - title: "Passive Income"
-        year: "4"
-        desc: "You get annual dividends out of your high yield, low-risk, unleveraged and asset-backed farmlands."
+        year: "4."
+        desc: "You get annual dividends for your shares in high yield, low-risk, unleveraged and real asset-backed companies."
         image: assets\img\Tolhuin\smart_money.png
         alt:
         # you can enforce the alignment
@@ -78,15 +78,18 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "Verde al Cubo"
-        url: https://www.verdealcubo.com/general/bienvenido
-        logo: assets/img/clients/V3.png
       - title: "17 Minerals"
         url: https://www.verdealcubo.com/general/bienvenido
         logo: assets\img\clients\17M.jpg
       - title: "Academia Verde al Cubo"
         url: https://academiaverdealcubo.com/
         logo: assets/img/clients/AV3.png
+      - title: "Verde al Cubo"
+        url: https://www.verdealcubo.com/general/bienvenido
+        logo: assets/img/clients/V3.png
+      - title: "Tolhuin Farmland"
+        url: https://www.tolhuinfarmland.com
+        logo: assets\img\Tolhuin\logo_horizontal_png.png
       #- title: "Creative Market"
       #  url: https://github.com/raviriley/agency-jekyll-theme
       #  logo: assets/img/clients/creative-market.jpg
@@ -141,7 +144,7 @@ en: &DEFAULT_EN
     message: "Message*"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
-    submit: "Get Started"
+    submit: "Subscribe"
 
   footer:
     legal: "Privacy Policy"
