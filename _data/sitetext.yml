@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title:
-    text: Tolhuin Farmland
+    text: #Tolhuin Farmland
     button: Get Growing
     buttonlink: "#contact"
 
