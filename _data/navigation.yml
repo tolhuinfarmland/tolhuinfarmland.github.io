@@ -15,8 +15,8 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Why Us"
       section: services
-    - title: "Portfolio"
-      section: portfolio
+#    - title: "Portfolio"
+#      section: portfolio
 #     - title: "Team"
 #       section: team
     - title: "Contact Us"
