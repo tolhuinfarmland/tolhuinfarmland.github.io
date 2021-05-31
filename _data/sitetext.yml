@@ -78,14 +78,14 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: # "17 Minerals"
-        url: https://www.verdealcubo.com/general/bienvenido
+      - title:  "17 Minerals"
+        url: # https://www.verdealcubo.com/general/bienvenido
         logo: assets\img\clients\17M.jpg
       - title: "Academia Verde al Cubo"
         url: https://academiaverdealcubo.com/
         logo: assets/img/clients/AV3.png
       - title: "Your Company"
-    #    url: https://www.verdealcubo.com/general/bienvenido
+        url: # 
         logo: assets/img/clients/Your_Company.png
       - title: "Tolhuin Farmland"
         url: https://www.tolhuinfarmland.com
