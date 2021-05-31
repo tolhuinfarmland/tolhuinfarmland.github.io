@@ -78,15 +78,15 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "17 Minerals"
+      - title: # "17 Minerals"
         url: https://www.verdealcubo.com/general/bienvenido
         logo: assets\img\clients\17M.jpg
       - title: "Academia Verde al Cubo"
         url: https://academiaverdealcubo.com/
         logo: assets/img/clients/AV3.png
-      - title: "Verde al Cubo"
-        url: https://www.verdealcubo.com/general/bienvenido
-        logo: assets/img/clients/V3.png
+      - title: "Your Company"
+    #    url: https://www.verdealcubo.com/general/bienvenido
+        logo: assets/img/clients/Your_Company.png
       - title: "Tolhuin Farmland"
         url: https://www.tolhuinfarmland.com
         logo: assets\img\Tolhuin\logo_horizontal_png.png
@@ -133,7 +133,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Get Growing"
-    text: "Leave us your contact and one of our team members will get in touch asap."
+    text: "Leave us your contact and a message and recieve our latest offerings."
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -237,7 +237,7 @@ es: &DEFAULT_ES
   clients:
     section: clientes
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "yes" #"yes/no"
     list:
       - title: "envato"
         url: https://github.com/raviriley/agency-jekyll-theme
