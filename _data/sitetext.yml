@@ -34,7 +34,7 @@ en: &DEFAULT_EN
         desc: "We choose seasoned operators with proven experience and provide support that benefits from agtech solutions and experts knowledge transfer."
         icon:  fas fa-handshake #fas fa-globe-americas #assets\img\Tolhuin\smarter_farmers.ico
       - title: "Smart Money"
-        desc: "We provide simple, transparent and flexible investment opportunities in asset backed high profit businesses."
+        desc: "We provide simple, transparent and flexible investment opportunities in unleveraged real asset-backed high profit businesses."
         icon: fas fa-hand-holding-usd #assets\img\Tolhuin\smart_money.svg
 
   timeline:
@@ -46,12 +46,12 @@ en: &DEFAULT_EN
     events:
       - title: "An Offerings is Listed"
         year: "1."
-        desc: "A new Farmland is shared with our registered subscribers."
+        desc: "A new Farmland is shared with our registered subscribers community."
         image: assets\img\Tolhuin\new_offering.png
         alt:
-      - title: "An Opportunity is Taken"
+      - title: "An Opportunity is Seized"
         year: "2."
-        desc: "You choose and purchase shares in a Farm of your liking."
+        desc: "You choose and purchase shares from an entity owning a Farm of your liking."
         image: assets\img\Tolhuin\opportunity_is_taken.png
         alt:
       - title: "Business as Usual"
@@ -61,7 +61,7 @@ en: &DEFAULT_EN
         alt: image alt text
       - title: "Passive Income"
         year: "4."
-        desc: "You get annual dividends for your shares in high yield, low-risk, unleveraged and real asset-backed companies."
+        desc: "You recieve annual payments for holding shares in a high yield, low risk, unleveraged and real asset-backed business."
         image: assets\img\Tolhuin\smart_money.png
         alt:
         # you can enforce the alignment
