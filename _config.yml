@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "http://tolhuinfarmland.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
 
-title      : # Agency Jekyll Theme Demo
+title      : Tolhuin Farmland # Agency Jekyll Theme Demo
 email      : tolhuinfarmland@gmail.com #this is also the email contact forms will go to
 description: "Smart Farmland Investments"
 author     : Tolhuin Farmland
