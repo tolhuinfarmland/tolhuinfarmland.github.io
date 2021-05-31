@@ -79,16 +79,16 @@ en: &DEFAULT_EN
     horizontal-scrolling: "" #"yes/no"
     list:
       - title:  "17 Minerals"
-        url: # https://www.verdealcubo.com/general/bienvenido
+        url: https://tolhuinfarmland.com/#clients
         logo: assets\img\clients\17M.jpg
       - title: "Academia Verde al Cubo"
         url: https://academiaverdealcubo.com/
         logo: assets/img/clients/AV3.png
       - title: "Your Company"
-        url: # 
+        url: https://tolhuinfarmland.com/#clients
         logo: assets/img/clients/Your_Company.png
       - title: "Tolhuin Farmland"
-        url: https://www.tolhuinfarmland.com
+        url: https://tolhuinfarmland.com/#clients
         logo: assets\img\Tolhuin\logo_horizontal_png.png
       #- title: "Creative Market"
       #  url: https://github.com/raviriley/agency-jekyll-theme
