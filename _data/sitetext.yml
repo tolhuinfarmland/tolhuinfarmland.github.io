@@ -28,13 +28,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Smart Partners"
-        desc: "Our preferred client agreement with 17-Minerals provides our farms with unlimited disruptive fertilizing technology at break-even cost."
+        desc: "Our preferred client agreement with our suppliers." # "Our preferred client agreement with 17-Minerals provides our farms with unlimited disruptive fertilizing technology at break-even cost."
         icon: fas fa-flask #find more at https://fontawesome.com/icons #assets\img\Tolhuin\smart_partners.svg
       - title: "Smarter Farmers"
         desc: "We choose seasoned operators with proven experience and provide support that benefits from agtech solutions and experts knowledge transfer."
         icon:  fas fa-handshake #fas fa-globe-americas #assets\img\Tolhuin\smarter_farmers.ico
       - title: "Smart Money"
-        desc: "We provide simple, transparent and flexible investment opportunities in unleveraged real asset-backed high profit businesses."
+        desc: "We provide simple, transparent and flexible investment opportunities in real asset-backed high profit businesses." # unleveraged
         icon: fas fa-hand-holding-usd #assets\img\Tolhuin\smart_money.svg
 
   timeline:
@@ -44,9 +44,9 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "An Offerings is Listed"
+      - title: "An Offering is Listed"
         year: "1."
-        desc: "A new Farmland is shared with our registered subscribers community."
+        desc: "A project is shared with our registered subscribers community."
         image: assets\img\Tolhuin\new_offering.png
         alt:
       - title: "An Opportunity is Seized"
@@ -78,12 +78,12 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title:  "17 Minerals"
-        url: https://tolhuinfarmland.com/#contact
-        logo: assets\img\clients\17M.jpg
-      - title: "Academia Verde al Cubo"
-        url: https://academiaverdealcubo.com/
-        logo: assets/img/clients/AV3.png
+      - title: "Your Company" #      # "17 Minerals"
+        url:  https://tolhuinfarmland.com/#contact
+        logo: assets/img/clients/Your_Company.png # assets\img\clients\17M.jpg
+      - title: "Tolhuin Farmland" # "Academia Verde al Cubo"
+        url: https://tolhuinfarmland.com/#contact # https://academiaverdealcubo.com/
+        logo: assets\img\Tolhuin\logo_horizontal_png.png #  assets/img/clients/AV3.png
       - title: "Your Company"
         url: https://tolhuinfarmland.com/#contact
         logo: assets/img/clients/Your_Company.png
